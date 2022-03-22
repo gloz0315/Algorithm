@@ -35,3 +35,5 @@
 * 큐의 주요 기능
   * add(), offer() : 데이터를 큐에 넣기
   * poll(), remove() : 데이터를 큐에서 제거하기
+
+### [큐의 예시](https://github.com/gloz0315/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%ED%81%90/Queue.java)
