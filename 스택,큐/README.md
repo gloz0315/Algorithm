@@ -20,7 +20,18 @@
   * **데이터 최대 개수를 미리 정해야 한다.**
   * 저장 공간의 낭비가 발생할 수 있다.
 
-
-
-
 ### [스택의 예시](https://github.com/gloz0315/Algorithm/blob/main/%EC%8A%A4%ED%83%9D%2C%ED%81%90/Stack.java)
+
+## 
+
+
+# 꼭 알아둬야 할 자료구조: 큐(Queue)
+가장 먼저 넣는 데이터를 가장 먼저 꺼낼 수 있는 자료구조
+![image](https://user-images.githubusercontent.com/80665963/159416390-54b91950-b171-48c6-8c49-c991328233a1.png)
+### FIFO(First In, First Out) 형식
+
+## 1. 큐의 구조
+* 큐는 FIFO 데이터 관리 방식을 따른다 ( 맨 처음 넣은 데이터가 맨 처음 나옴 )
+* 큐의 주요 기능
+  * add(), offer() : 데이터를 큐에 넣기
+  * poll(), remove() : 데이터를 큐에서 제거하기
