@@ -1,6 +1,6 @@
 # 자바 자료구조
 
-Java Algorithm
+Java Data Structure
 ----------------------
 
 ### 현재까지 정리된 내용
